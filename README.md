@@ -29,7 +29,7 @@ execute as @a[scores={detect:platform=2}] run say I am on Console
 
 ```yaml
 # Target players who are on Mobile
-execute as @a[scores={detect:platform=3}] run say I am on PC
+execute as @a[scores={detect:platform=3}] run say I am on Mobile
 ```
 
 ```yaml
